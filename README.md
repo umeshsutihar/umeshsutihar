@@ -20,6 +20,9 @@ I am a passionate Artificial Intelligence and Machine Learning student at **SRM 
 - 📧 **Email:** umeshsutihar000@gmail.com
 - 📸 **Instagram:** [umesh_sutihar1](https://www.instagram.com/umesh_sutihar1)
 - 🌐 **Facebook:** [umesh.sutihar.144](https://facebook.com/umesh.sutihar.144)
+- <a href="https://www.linkedin.com/in/umeshsutihar/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 *“Building the future, one line of code at a time.”*
